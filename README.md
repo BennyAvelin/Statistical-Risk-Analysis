@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BennyAvelin/Statistical-Risk-Analysis/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BennyAvelin/Statistical-Risk-Analysis/master?filepath=Computer_lab_Poisson_Regression.ipynb)
